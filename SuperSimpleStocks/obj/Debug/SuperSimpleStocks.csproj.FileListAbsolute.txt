@@ -1,0 +1,7 @@
+c:\users\dgrech\documents\visual studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Users\dgrech\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
